@@ -14,7 +14,7 @@ body
     line-height: 1.6; /* 行間 */
     
     letter-spacing: .1em; /* 文字間隔 */
-    background-color: ##ffffff; /* 背景色 */
+    background-color: #ffffff; /* 背景色 */
 }
 
 .button-contact
@@ -126,7 +126,7 @@ section h2
 
 #skills
 {
-    background-color: #00FFF5;
+    background-color: #05FF5D;
 }
 #skills .container
 {
@@ -375,5 +375,5 @@ footer
     text-align: center;
 
     color: #fff;
-    background-color: #00FFF5;
+    background-color: #05FF5D;
 }
